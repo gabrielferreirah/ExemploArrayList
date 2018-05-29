@@ -21,6 +21,13 @@ public class Exemplo01 {
         
         System.out.println(
                 "Tamanho: " + numeros.size()); // tamanho do ArrayList
+        
+        numeros.remove(1); // apaga o elemento do ArrayList
+        // pelo indice
+        
+        for(int i = 40; i <= 100; i = i + 10){
+        
+    }
     }
     
 }
